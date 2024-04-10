@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prokject/static/css/main.cbb1aeb3.css",
+    "main.js": "/prokject/static/js/main.2756294f.js",
+    "index.html": "/prokject/index.html",
+    "main.cbb1aeb3.css.map": "/prokject/static/css/main.cbb1aeb3.css.map",
+    "main.2756294f.js.map": "/prokject/static/js/main.2756294f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cbb1aeb3.css",
+    "static/js/main.2756294f.js"
+  ]
+}
